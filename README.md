@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm getting started with sharing projects, learnin
 - 🌱 Learning: JavaScript, Python, and good engineering practices.
 - 💬 Ask me about: project setup, learning resources, or pairing on small features.
 
-## Skills (placeholder)
+## Skills
 
 - Languages: 
 - Tools: Git, GitHub, VS Code
