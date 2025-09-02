@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm getting started with sharing projects, learnin
 
 ## Skills (placeholder)
 
-- Languages: JavaScript, Python (add yours)
+- Languages: 
 - Tools: Git, GitHub, VS Code
 - Interested in: Web dev, automation, and developer experience
 
